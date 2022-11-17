@@ -3,6 +3,7 @@
 ### Segunda bateria de desafios Java do Bootcamp DIO
 
 Conjunto de desafios do Bootcamp Potencia Tech powered by iFood - Java Beginners.
+<br>
 Nessa leva incluem os desafios:
 - Checagem de Palíndromo
 - Validação de Parenteses
