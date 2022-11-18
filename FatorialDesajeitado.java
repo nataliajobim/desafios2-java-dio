@@ -24,7 +24,7 @@ public class FatorialDesajeitado {
         while (n > 0) {
             tmp *= n;
             n--;
-            if(n != 0){
+            if (n != 0) {
                 tmp /= n;
                 n--;
             }
@@ -33,7 +33,7 @@ public class FatorialDesajeitado {
             n--;
             res += tmp;
             tmp = -n;
-            if (n == 1 ){
+            if (n == 1) {
                 res += tmp;
             }
 
